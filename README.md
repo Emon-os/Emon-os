@@ -10,9 +10,9 @@
   <br/>
   📚 Currently learning: <strong>Machine Learning (ML)</strong>, <strong>Deep Learning (DL)</strong>, and <strong>Artificial Intelligence (AI)</strong>
   <br/><br/>
-  <a href="https://your_linkedin_url](https://www.linkedin.com/in/muhammad-shibli-34baa9274" target="_blank">🌐 LinkedIn</a> |
-  <a href="https://codeforces.com/profile/Muhammad11" target="_blank">🏆 Codeforces</a> |
-  <a href="mailto:muhammadshibli508@gmail.com">📧 Email</a>
+  <a href="https://your_linkedin_url]([https://www.linkedin.com/in/emon-mia-a21033267]" target="_blank">🌐 LinkedIn</a> |
+  <a href="[https://codeforces.com/profile/Emon10676120]" target="_blank">🏆 Codeforces</a> |
+  <a href="mailto:ek369542@gmail.com">📧 Email</a>
 </p>
 
 ---
